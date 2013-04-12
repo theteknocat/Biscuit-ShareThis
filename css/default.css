@@ -1,0 +1,11 @@
+a.stbar.chicklet img {
+	border:0;
+	height:16px;
+	width:16px;
+	margin-right:3px;
+	vertical-align:middle;
+}
+a.stbar.chicklet {
+	height:16px;
+	line-height:16px;
+}
