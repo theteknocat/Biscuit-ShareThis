@@ -3,10 +3,11 @@
  * An extension for adding "Share This" script and style tags to the header
  *
  * @package Extensions
+ * @subpackage ShareThis
  * @author Peter Epp
  * @copyright Copyright (c) 2009 Peter Epp (http://teknocat.org)
  * @license GNU Lesser General Public License (http://www.gnu.org/licenses/lgpl.html)
- * @version 1.0
+ * @version 1.0 $Id: extension.php 13982 2011-08-08 18:51:55Z teknocat $
  */
 class ShareThis extends AbstractExtension {
 	/**

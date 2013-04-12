@@ -1,0 +1,3 @@
+name = "ShareThis"
+description = "Extension for rendering basic ShareThis buttons with some configuration settings editable via the System Admin module."
+version = "2.2"
